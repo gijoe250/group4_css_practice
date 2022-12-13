@@ -1,3 +1,27 @@
+/*How does the inherit property work?*/
+
+/*Inherited properties work by passing on those properties to their children elements.   Non-inherited properties would be element properties that are set by default. */
+/*example: h1 has default styling that h1 elements will inherit them.*/
+/*All font-* properties ARE inherited by default.
+/*font-size*/
+/*font-family*/
+/*font-weight*/
+
+/*beside the font properties, only direct children of elements can inherit their properties*/
+
+#parent{
+    color: red;
+    font-size: 45px;
+}
+
+#child{
+    color: midnightblue;
+}
+
+#grandchild{
+    color: inherit;
+}
+
 h4 {
     color: red
 }
