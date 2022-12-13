@@ -1,7 +1,9 @@
 .button:hover{
     background-color: green;
     transition: ease-in .5s ;
-    /*transform: rotate(360deg);*/
-    /*transform: scale(1.2);*/
+    transform: rotate(360deg);
+    transform: scale(1.2);
 }
 /*Transitions enable you to define the transition between two states of an element. Different states may be defined using pseudo-classes like :hover or :active or dynamically set using JavaScript.*/
+
+/*Transitions can be used to control animation speed when changing from original state of code to when property is applied*/
