@@ -1,16 +1,19 @@
 
-
-.img1 {
-    width: 500px;
-    height: 600px;
-    border-radius: 38px;
-    background: #e0e0e0;
-    box-shadow:  19px 19px 38px #8d8d8d,
-    -19px -19px 38px #ffffff;
+.img1:hover {
+    transform: scale(1.5);
 }
+/*.img1 {*/
+/*    width: 500px;*/
+/*    height: 600px;*/
+/*    */
+/*    border-radius: 38px;*/
+/*    background: #e0e0e0;*/
+/*    box-shadow: 19px 19px 38px #8d8d8d,*/
+/*    -19px -19px 38px #ffffff;*/
+
 
 .img2 {
-    transform: rotateZ(175deg);
+    transform: rotateZ(75deg);
 }
 
 .img3:hover {
