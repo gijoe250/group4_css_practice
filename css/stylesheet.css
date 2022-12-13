@@ -4,6 +4,6 @@
     /*transform: rotate(360deg);*/
     /*transform: scale(1.2);*/
 }
-/*Transitions can be used to control animation speed when changing from an original state of code to when a property is applied. Different states may be defined using pseudo-classes like :hover or :active or dynamically set using JavaScript.*/
+/*Transitions can be used to control animation speed when changing from initial state of code to final state of code when the property is applied. Different states may be defined using pseudo-classes like :hover or :active or dynamically set using JavaScript.*/
 
 /*Transitions work by  breaking down the transition into time intervals that follow an accelerated code*/
