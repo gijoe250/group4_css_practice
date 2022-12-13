@@ -6,6 +6,6 @@ h4 {
 /*    color: green;*/
 /*}*/
 
-/*.unset h4 {*/
-/*    color: unset !* color initial (black) *!*/
-/*}*/
+.unset h4 {
+    color: unset /* color initial (black) */
+}
